@@ -21,3 +21,5 @@ this menu is
 -  Select With Where Condition
 -  Back to Table Menu
 -  Back to Main Menu
+
+- to run--------------> ./main.sh
